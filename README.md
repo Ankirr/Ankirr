@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm a Computer Science and Engineering student with a spec
 You're looking for someone who enjoys learning by doing, values clean and purposeful code, and brings a creative approach to technical work. I’m always open to internships, collaborative opportunities, or just chatting about tech and ideas.
 
 - 📍 Based in India
-- 🔗 [LinkedIn](#https://www.linkedin.com/in/ankit-jha-447a7b288/) | 📧 [Email](#ankitjha763073@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ankit-jha-447a7b288/) | 📧 [Email](ankitjha763073@gmail.com)
 
 ---
 
