@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a Computer Science and Engineering student with a spec
 - **Version Control**: Git, GitHub, GitHub Desktop
 - **IDEs & Code Editors**: VS Code, IntelliJ IDEA, Eclipse, Code::Blocks
 - **Databases**: MongoDB Atlas, MySQL (basic)
-- **Operating Systems**: Windows 11, Ubuntu (Dual Boot)
+- **Operating Systems**: Windows, Linux
 - **Design & UI Tools**: Bootstrap Studio, Figma (basic)
 - **Linux Utilities**: Termius, Bash, apt package manager
 - **Cloud & DevOps (Exploratory)**: GitHub Actions, Netlify, Vercel
@@ -44,14 +44,6 @@ Welcome to my GitHub! I'm a Computer Science and Engineering student with a spec
 - AI/ML applications in real-world scenarios  
 - Building better web interfaces and backend logic  
 - Long-term project and productivity systems for students  
-
----
-
-## 📌 A few things I've built (or am building)
-
-- 🔷 **Java Practice Repository** – A curated list of Java problems and solutions, focused on clean code and logical clarity.
-- 🔷 **EqualVoice (WIP)** – Emotion-detection web app built from scratch with HTML, CSS, and Python.
-- 🔷 **Digital Discipline Tracker (Concept)** – 30-day productivity system to boost digital focus and performance.
 
 ---
 
